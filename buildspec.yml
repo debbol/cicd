@@ -4,7 +4,7 @@ phases:
   install:
     runtime-versions:
         python: 3.7
-     commands:
+    commands:
         - python -m pip install Flask
   build:
     commands:
